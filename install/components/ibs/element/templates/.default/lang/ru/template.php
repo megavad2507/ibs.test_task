@@ -1,0 +1,20 @@
+<?php
+$MESS['ACCORDION_ID'] = 'ID: #ID#';
+$MESS['ACCORDION_NAME'] = 'Название: #NAME#';
+$MESS['ACCORDION_MODELS'] = 'Модели:';
+$MESS['ACCORDION_YEAR'] = 'Год: #YEAR#';
+$MESS['ACCORDION_PRICE'] = 'Цена: #PRICE#';
+$MESS['ACCORDION_MODEL'] = 'Модель:';
+$MESS['ACCORDION_OPTIONS'] = 'Опции:';
+$MESS['ACCORDION_MANUFACTURER'] = 'Производитель:';
+$MESS['ACCORDION_LAPTOPS'] = 'Ноутбуки:';
+$MESS['SORT_FIELD_CHOOSE'] = 'Сортировка';
+$MESS['SORT_ORDER_CHOOSE'] = 'Направление';
+$MESS['SORT_ID'] = 'ID';
+$MESS['SORT_NAME'] = 'Название';
+$MESS['SORT_PRICE'] = 'Цена';
+$MESS['SORT_YEAR'] = 'Год';
+$MESS['SORT_ASC'] = 'По возрастанию';
+$MESS['SORT_DESC'] = 'По убыванию';
+$MESS['SORT_APPLY_BUTTON'] = 'Применить';
+$MESS['PAGE_SIZE_TEXT'] = 'Выводить по:';

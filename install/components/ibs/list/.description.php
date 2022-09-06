@@ -1,0 +1,16 @@
+<?php
+
+use Bitrix\Main\Localization\Loc;
+
+if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED!==true) die();
+
+$arComponentDescription = array(
+    'NAME' => Loc::getMessage('LIST_MODULE_NAME'),
+    'DESCRIPTION' => Loc::getMessage('LIST_MODULE_DESCRIPTION'),
+    'CACHE_PATH' => 'Y',
+    'SORT' => 20,
+    'COMPLEX' => 'N',
+    'PATH' => array(
+        'ID' => 'ibs_test_components',
+    )
+);
